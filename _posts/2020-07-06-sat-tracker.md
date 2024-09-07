@@ -4,9 +4,6 @@ title: Sat Tracker!
 which_category: projects
 ---
 
-Aqui está um exemplo de um arquivo `README.md` que você pode usar para o projeto:
-
-```markdown
 # Projeto de Monitoramento de Satélites com ESP32 e Display OLED
 
 Este projeto utiliza um ESP32 conectado a um módulo GPS e um display OLED para monitorar satélites em tempo real usando dados TLE (Two-Line Element). O sistema também permite a navegação entre diferentes satélites e opções de menu por meio de botões.
@@ -62,10 +59,3 @@ struct SatelliteData {
 1. Ligue o dispositivo e aguarde até que os dados GPS sejam adquiridos.
 2. Use os botões para navegar pelos menus e selecionar o satélite que deseja monitorar.
 3. O display OLED exibirá as informações do satélite selecionado, como sua órbita e posição atual.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-```
-
-Esse arquivo `README.md` fornece uma visão geral do projeto, explicando as funcionalidades, os componentes utilizados, e como configurar o sistema. Pode ser personalizado conforme você adicionar mais funcionalidades.
